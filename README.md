@@ -64,9 +64,9 @@ Constraining the grid size to 640 x 640 made this design significantly more chal
 
 Here's one such story. 
 
-I had my heart set on an analog readout for minutes and seconds. After going through a number of prototypes, I settled on an approach that required two very particular guns with periods of 2,250 and 2,160 (see below for why). This was a show stopper since I couldn't find them anywhere, and not for lack of trying!
+I had my heart set on an analog readout for minutes and seconds. After going through a number of prototypes, I settled on an approach that required two very particular guns with periods of 2,250 and 2,160 (see below for why). However I couldn't find them anywhere, and not for lack of trying! I put the project on hold for many months.
 
-Late one night, just by chance, I stumbled on [this](https://catagolue.hatsya.com/textcensus/b3s23/synthesis-costs/gun) file from a relatively obscure [site]([https://catagolue.hatsya.com/textcensus/b3s23/synthesis-costs/gun](https://catagolue.hatsya.com/home)) that catalogues life patterns through random search. From this file, I got the first clue that these guns do in fact exist! Hot on the trail and through a bit of url hacking, I was finally able to locate them on these pages: [p2250](https://catagolue.hatsya.com/census/b3s23/synthesis-costs/gun?offset=1600) and [p2160](https://catagolue.hatsya.com/census/b3s23/synthesis-costs/gun?offset=2300). One of the minor miracles that pushed this project over the edge.
+Then late one night, just by chance, I stumbled on [this](https://catagolue.hatsya.com/textcensus/b3s23/synthesis-costs/gun) file from a relatively obscure [site]([https://catagolue.hatsya.com/textcensus/b3s23/synthesis-costs/gun](https://catagolue.hatsya.com/home)) that catalogues life patterns through random search. From this file, I got the first clue that these guns do in fact exist! Hot on the trail and through a bit of url hacking, I was finally able to locate them on these pages: [p2250](https://catagolue.hatsya.com/census/b3s23/synthesis-costs/gun?offset=1600) and [p2160](https://catagolue.hatsya.com/census/b3s23/synthesis-costs/gun?offset=2300). One of the minor miracles that pushed this project over the edge.
 
 ### Inner dial design ###
 
