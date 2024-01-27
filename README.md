@@ -8,17 +8,17 @@ To give you an idea of its size, [my design](https://copy.sh/life/?gist=5368d00b
 
 To see the watch in action, you can run it at ~normal speed [here](https://copy.sh/life/?gist=5368d00b4e8329109a0af23dfdc85829&step=4), or sped up [here](https://copy.sh/life/?gist=5368d00b4e8329109a0af23dfdc85829&step=4096).
 
-In the spirit of high horology, this design requires some training to tell the time. There are three readouts: Arabic numeral hours, quarter hour markers at the corners, and an analog inner dial. Both the hour and quarter hour markers are "jump" style. The inner dial is an analog display that indicates how much time remains before the next quarter hour. Roughly speaking, the number of [gliders](https://conwaylife.com/wiki/Glider) in the stream measures minutes (0-15), and its phase can be used to estimate seconds.
+In the spirit of high horology, this design requires some training to tell the time. There are three readouts: a standard hour dial using Arabic numerals, quarter hour markers at the corners, and an analog inner dial for minutes and seconds. Both the hour and quarter hour markers are "jump" style. The inner dial is an analog display that indicates how much time remains before the next quarter hour. Roughly speaking, the number of [gliders](https://conwaylife.com/wiki/Glider) in the stream measures minutes (0-15), and its phase can be used to estimate seconds.
 
 ![readout_420](https://github.com/pmerolla/watch-life/assets/3480196/a8c86a86-8bad-497e-958b-eee63aa82713)
 
-*Annotated readout. In this instance it is 4:20:45, which can be seen by the highlighted hour (4 o'clock), quarter hour (+15 minutes in bottom right), and inner dial (+5 minutes and 45 seconds). Note one way to estimate the time from the inner dial is to measure the length of the glider stream when it hits the end (highlighted yellow path). There are markers spaced around the inner dial that indicate the minutes and seconds (highlighted blue path). Because of space constraints, the markers are broken into three 5 minute groups. In this case, the stream just passed the first 5 minute group, and landed near a marker indicating ~45 sec.*
+*Snapshot of watch with annotations. In this instance it is 4:20:45, which can be seen by the highlighted hour (4 o'clock), quarter hour (+15 minutes in bottom right), and inner dial (+5 minutes and 45 seconds). Note one way to estimate the time from the inner dial is to measure the length of the glider stream when it hits the end (highlighted yellow path). There are notches spaced around the inner dial that indicate the minutes and seconds (highlighted light blue). Because of space constraints, the notches are broken into three 5 minute groups. In this case, the stream just passed the first 5 minute group, and landed near one indicating ~45 sec.*
 
 In practice, a quick glance will tell you the hour and quarter hour almost instantly. And typically within a few seconds of staring, you can estimate how many gliders are in the inner loop to gauge the approx time within the quarter hour. This one takes some practice!
 
 ### Watch Life in action
 
-I've also included a video highlight reel. To run the watch yourself, I highly recommend downloading `watch.rle` directly and using the wonderful GoL simulator [Golly](https://golly.sourceforge.io/)!
+I've also included a video highlight reel. To run the watch for yourself, I highly recommend downloading `watch.rle` directly and using the wonderful GoL simulator [Golly](https://golly.sourceforge.io/)!
 
 **Transition from 11:59 to 12:00. Running 8x real time.**
 
