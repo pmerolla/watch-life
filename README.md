@@ -28,7 +28,7 @@ https://github.com/pmerolla/watch-life/assets/3480196/3373889c-24dc-4224-bd9e-f6
 
 **12 hours in 10.5 seconds. Running 4,096x real time.**
 
-https://github.com/pmerolla/watch-life/assets/3480196/0bc4ef37-ed39-48f7-9529-66b7872e988f
+https://github.com/pmerolla/watch-life/assets/3480196/007c7e91-1db7-47fd-9663-c1a2f614f0c2
 
 *When we speed up the simulation by 4096, you can see the watch do a full cycle in under 11 seconds. Note the inner analog dial is difficult to see at such a fast update rate.*
 
