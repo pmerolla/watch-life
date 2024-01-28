@@ -22,7 +22,7 @@ I've also included a video highlight reel. To run the watch for yourself, I high
 
 **Transition from 11:59 to 12:00. Running 8x real time.**
 
-https://github.com/pmerolla/watch-life/assets/3480196/eadbfd15-5e62-4961-bfb5-e5b9e5256fb1
+https://github.com/pmerolla/watch-life/assets/3480196/4a98b659-caf3-423b-a9b0-dc732e6bd6fb
 
 *Play-by-play action: Around 1 second, a 45 degree line of gliders jumps from the top left corner (marking the last quarter hour) to the top right corner (marking the first quarter hour). Next, around 1 to 2 seconds, 12 "control signal" gliders fan out across the watch and make their way to the hour markers, deselecting "11" while selecting "12". Finally, the inner dial gets cleared out at 5 seconds, and at 6 seconds starts producing gliders in groups of 3 indicating that the new quarter hour has started.*
 
